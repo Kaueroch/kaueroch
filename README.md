@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?Kaueroch=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?kaueroch=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Olá! Eu sou o Kauê Alcantara Rocha 🖐️
 <div style="display: inline_block"><br>
