@@ -1,8 +1,13 @@
- Olá! Eu sou o Kauê Alcantara Rocha 🖐️
-:space_invader: Tenho 17 anos
-:space_invader:Estudando para ser Desenvolvedor Back-end!
-:space_invader:Estudando Java!
-:space_invader: Na escola vejo C# e Java! Estou no terceiro ano!
+Olá!Eu sou o Kauê Alcantara Rocha 🖐️
+
+😀Tenho 17 anos
+
+🤖 Desenvolvedor Back-end!
+
+👾 Estudando Java!
+
+🙏 Na escola vejo C# e Java! Estou no terceiro ano!
+
 ##
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kaueroch&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact)
