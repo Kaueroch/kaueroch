@@ -1,5 +1,6 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kaueroch&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Olá! Eu sou o Kauê Alcantara Rocha 🖐️
 <div style="display: inline_block"><br>
