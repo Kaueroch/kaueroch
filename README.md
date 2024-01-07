@@ -6,7 +6,7 @@
   <img align="center" alt="kaue-HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaue-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kaue-Csharp" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="kaue-Csharp" height="100" width="100" src="C:\Users\kauea\OneDrive\Área de Trabalho\java.png"
+  <img align="center" alt="kaue-Csharp" height="100" width="100" src="Área de Trabalho\java.png"
 
 </div>
   
