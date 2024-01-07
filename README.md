@@ -6,7 +6,8 @@
   <img align="center" alt="kaue-HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaue-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kaue-Csharp" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="50" width="50" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)"/>
+    <img align="center" alt="kaue-Csharp" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/java-original.svg">
+ 
 </div>
   
   ##
