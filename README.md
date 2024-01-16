@@ -2,11 +2,11 @@ Olá!Eu sou o Kauê Alcantara Rocha 🖐️
 
 😀Tenho 17 anos
 
-🤖 Desenvolvedor Back-end!
+🤖 Desenvolvedor Back-end
 
-🙏 Estudando Java!
+🙏 Estudando Java
 
-👾 Na escola vejo C# e Java! Estou no terceiro ano!
+👾 Na escola vejo C# e Java! Estou no terceiro ano.
 
  👾No meu github contém alguns projetos de Java,HTML,CSS,Javascript e C#. Mas atualmente estou focado somente no java.
 
