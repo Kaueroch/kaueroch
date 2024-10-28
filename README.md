@@ -6,9 +6,9 @@ Olá!Eu sou o Kauê Alcantara Rocha 🖐️
 
 🙏 Estudando Java
 
-👾 Na escola vejo C# e Java! Estou no terceiro ano.
+👾 Na escola vejo C# e Java! Ensino Médio com tecnico Concluído.
 
- 👾No meu github contém alguns projetos de Java,HTML,CSS,Javascript e C#. Mas atualmente estou focado somente no java.
+ 👾No meu github contém alguns projetos de Java,HTML,CSS,Javascript,React Native e C#. Mas atualmente estou focado somente no java.
 
 ##
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kaueroch&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
