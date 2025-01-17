@@ -1,5 +1,5 @@
 ## hi,everyone i am Kauê Alcantara Rocha! 👋 🇧🇷
-i m Back-end Developer with experience in mobile developer and building systems
+I am a software developer specializing in mobile and web solutions, with experience in building robust applications on both the front-end and back-end
 <div align="center">
   <h1>Linguagens e Tecnologias</h1>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="80" width="80"/>
@@ -7,7 +7,9 @@ i m Back-end Developer with experience in mobile developer and building systems
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="80" width="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="80" width="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="80" width="70"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="80" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="80" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="80" width="70"/>
+  
   
 </div>
   
