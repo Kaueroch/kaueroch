@@ -12,7 +12,8 @@ I am a software developer specializing in mobile and web solutions, with experie
   
   
 </div>
-  
+
+<h2><a href="https://meuportfolio2.netlify.app" style="font-size: 2rem>">Meu Portfolio</a></h2>  
   ##
  <div align="center">
   <h1> Personal Projects</h1>
