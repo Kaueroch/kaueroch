@@ -1,7 +1,7 @@
 ## hi,everyone i am Kauê Alcantara Rocha! 👋 🇧🇷
 I am a software developer specializing in mobile and web solutions, with experience in building robust applications on both the front-end and back-end
 <div align="center">
-  <h1>Linguagens e Tecnologias</h1>
+  <h1>Stacks</h1>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="80" width="80"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="80" width="70"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="80" width="70"/>
