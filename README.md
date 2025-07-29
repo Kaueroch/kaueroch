@@ -9,8 +9,6 @@
   Aqui você encontra projetos, experimentos e APIs desenvolvidos com Java, Spring e muito mais.
 </p>
 
----
-
 ## 👨‍💻 Sobre Mim
 
 - 🔭 Focado em desenvolvimento Back End com Java e Spring (Boot, Data, Security, etc)
@@ -18,19 +16,17 @@
 - ✍️ Escrevo artigos técnicos sobre Java, Spring e desenvolvimento backend
 - 🚀 Sempre buscando crescer e contribuir com a comunidade tech
 
----
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="40" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="70" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="70" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="70" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="70" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="70" width="70"/>
 </p>
 
----
 
 ## 🏆 Projetos em Destaque
 
