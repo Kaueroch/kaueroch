@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="mailto:kaue.alcan@gmail.com">
-    <img src="https://img.shields.io/badge/-kaue.rochaa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-kaue.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/kaue-alcantara-a06946138/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
