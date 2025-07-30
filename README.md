@@ -9,6 +9,8 @@
   Aqui você encontra projetos, experimentos e APIs desenvolvidos com Java, Spring e muito mais.
 </p>
 
+---
+
 ## 👨‍💻 Sobre Mim
 
 - 🔭 Focado em desenvolvimento Back End com Java e Spring (Boot, Data, Security, etc)
@@ -16,17 +18,19 @@
 - ✍️ Escrevo artigos técnicos sobre Java, Spring e desenvolvimento backend
 - 🚀 Sempre buscando crescer e contribuir com a comunidade tech
 
+---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="70" width="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="70" width="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="70" width="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="70" width="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="70" width="70"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="50" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="50" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="50" width="50"/>
 </p>
 
+---
 
 ## 🏆 Projetos em Destaque
 
@@ -34,7 +38,7 @@
   <a href="https://github.com/Kaueroch/BankNote">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=BankNote&theme=github_dark&hide_border=true" />
   </a>
-  <a href="[https://github.com/Kaueroch/Gerenciador-de-Tarefas](https://github.com/Kaueroch/Gerenciador-de-Tarefas)">
+  <a href="https://github.com/Kaueroch/Gerenciador-de-Tarefas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=Gerenciador-de-Tarefas&theme=github_dark&hide_border=true" />
   </a>
 </p>
