@@ -1,22 +1,22 @@
-<h1 align="center">Olá, eu sou o Kauê Alcantara Rocha 👋</h1>
+<h1 align="center">Hello, I'm Kauê Alcantara Rocha 👋</h1>
 
 <p align="center">
   <em><b>Back End Developer</b> • <b>Java & Spring Specialist</b> • <b>Technical Writer</b></em>
 </p>
 
 <p align="center">
-  🚀 Apaixonado por tecnologia, desenvolvimento backend e soluções escaláveis.<br>
-  Aqui você encontra projetos, experimentos e APIs desenvolvidos com <b>Java</b>, <b>Spring</b> e muito mais.
+  🚀 Passionate about technology, backend development, and scalable solutions.<br>
+  Here you will find projects, experiments, and APIs developed with <b>Java</b>, <b>Spring</b>, and much more.
 </p>
 
 &nbsp;
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-- 🔭 Focado em desenvolvimento <b>Back End</b> com <b>Java</b> e <b>Spring</b> (Boot, Data, Security, etc)
-- 🛠️ Experiência com <b>PostgreSQL</b>, <b>Docker</b>, <b>Git</b> e boas práticas de <b>APIs RESTful</b>
-- ✍️ Escrevo artigos técnicos sobre <b>Java</b>, <b>Spring</b> e desenvolvimento backend
-- 🚀 Sempre buscando crescer e contribuir com a comunidade tech
+- 🔭 Focused on <b>Back End</b> development with <b>Java</b> and <b>Spring</b> (Boot, Data, Security, etc)
+- 🛠️ Experience with <b>PostgreSQL</b>, <b>Docker</b>, <b>Git</b>, and best practices for <b>RESTful APIs</b>
+- ✍️ I write technical articles about <b>Java</b>, <b>Spring</b>, and backend development
+- 🚀 Always looking to grow and contribute to the tech community
 
 &nbsp;
 
@@ -32,7 +32,7 @@
 
 &nbsp;
 
-## 🏆 Projetos em Destaque
+## 🏆 Featured Projects
 
 <div align="center">
 
@@ -41,12 +41,12 @@
   </a>
   
   <br>
-  <b>Gerenciador de Tarefas</b>
+  <b>Task Manager</b>
   <br>
-  <i>Um sistema simples e eficiente para organizar suas tarefas diárias, com interface intuitiva e recursos de produtividade.</i>
+  <i>A simple and efficient system to organize your daily tasks, with an intuitive interface and productivity features.</i>
   <br><br>
 
-  <!-- Outros projetos em destaque? Descomente e adicione abaixo -->
+  <!-- More featured projects? Uncomment and add below -->
   <!--
   <a href="https://github.com/Kaueroch/BankNote" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=BankNote&theme=github_dark&hide_border=true" alt="BankNote" />
@@ -57,18 +57,18 @@
 
 &nbsp;
 
-## 📊 Tecnologias em Destaque
+## 📊 Highlighted Technologies
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" alt="Linguagens mais usadas"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" alt="Most used languages"/>
 </p>
 
 &nbsp;
 
-## 🌐 Contato
+## 🌐 Contact
 
 <p align="center">
-  <b>Sinta-se à vontade para explorar meus repositórios e entrar em contato!</b>
+  <b>Feel free to explore my repositories and get in touch!</b>
 </p>
 <p align="center">
   <a href="mailto:kaue.alcan@gmail.com" target="_blank">
