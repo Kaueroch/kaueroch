@@ -36,15 +36,8 @@
 
 <div align="center">
 
-  <a href="https://github.com/Kaueroch/Gerenciador-de-Tarefas" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=Gerenciador-de-Tarefas&theme=github_dark&hide_border=true" alt="Gerenciador de Tarefas" />
-  </a>
-  
-  <br>
-  <b>Task Manager</b>
-  <br>
-  <i>A simple and efficient system to organize your daily tasks, with an intuitive interface and productivity features.</i>
-  <br><br>
+### [Gerenciador de Tarefas](https://github.com/Kaueroch/Gerenciador-de-Tarefas)
+_Simple and efficient system for organizing daily tasks, with an intuitive interface and productivity features._
 
   <!-- More featured projects? Uncomment and add below -->
   <!--
