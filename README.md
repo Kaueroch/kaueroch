@@ -1,56 +1,77 @@
-<h1 align="center">👋 Hello, I'm Kauê Alcantara Rocha</h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#8f00ff">Kauê Alcantara Rocha</span></h1>
 
 <p align="center">
   <em><b>Back End Developer</b> • <b>Java & Spring Specialist</b> • <b>Technical Writer</b></em>
 </p>
 
 <p align="center">
-  🚀 Passionate about building reliable backend systems, scalable APIs and sharing knowledge with the community.<br>
-  Here you will find projects, experiments, and tools developed with <b>Java</b>, <b>Spring</b>, and beyond.
+  🚀 Apaixonado por construir sistemas back-end robustos, APIs escaláveis e compartilhar conhecimento com a comunidade.<br>
+  Aqui você encontrará projetos, experimentos e ferramentas desenvolvidas com <b>Java</b>, <b>Spring</b>,React,MySQL/PostgreSQL, além de ferramentas como <b>Git</b> e <b>Docker</b>.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-- 🔭 Focused on **Back End Development** with **Java + Spring (Boot, Data, Security, MVC)**
-- 🛠️ Experienced with **PostgreSQL, Docker, Git** and **RESTful API best practices**
-- ✍️ Writing technical articles about **Java / Spring / Backend Engineering**
-- 🌱 Constantly learning **Cloud, Clean Architecture & Software Scalability**
-- 🤝 Open to collaboration on **Open Source** and community projects
-
+- 🔭 Focado em **Back End Development** com **Java + Spring (Boot, Data, Security, MVC)**  
+- 🛠️ Experiência com **PostgreSQL, Docker, Git** e **RESTful API best practices**  
+- ✍️ Autor de artigos técnicos sobre **Java, Spring e Engenharia de Back End**  
+- 🌱 Em constante aprendizado em **Segurança de Aplicações** e **Arquitetura de Software** (DDD e Microservices)  
+- 🤝 Aberto a colaborações em **Open Source** e projetos comunitários
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
 <p align="center">
+  <!-- Core -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="60" alt="Java"/>
+  
+  <!-- Frameworks -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="60" alt="Spring"/>
+  
+  <!-- Databases -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="60" alt="MySQL"/>
+  
+  <!-- DevOps -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="60" alt="Docker"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="60" alt="Git"/>
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects  
 
 <div align="center">
 
-### [📌 Gerenciador de Tarefas](https://github.com/Kaueroch/Gerenciador-de-Tarefas)
-> A simple and efficient system for organizing daily tasks with productivity features.  
+<table>
+<tr>
+<td width="45%" align="center">
+  
+### 📌 [Gerenciador de Tarefas](https://github.com/Kaueroch/Gerenciador-de-Tarefas)  
+💡 Um sistema simples e eficiente para organizar tarefas do dia a dia e aumentar a produtividade.  
 
-<a href="https://github.com/Kaueroch/Gerenciador-de-Tarefas" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=Gerenciador-de-Tarefas&theme=github_dark&hide_border=true" alt="Gerenciador de Tarefas" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=Gerenciador-de-Tarefas&theme=github_dark&hide_border=true" alt="Gerenciador de Tarefas"/>
 
-<!-- Add more pinned projects if needed -->
+</td>
+<td width="45%" align="center">
+
+<!--
+### 📌 [Próximo Projeto](#)  
+💡 Aqui você pode destacar outro projeto (API, estudo, ferramenta, etc).  
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=NomeDoRepo&theme=github_dark&hide_border=true" alt="Outro Projeto"/>
+
+</td>
+-->
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaueroch&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
@@ -58,12 +79,12 @@
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" alt="Most used languages"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&hide=c%23&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Most Used Languages"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect  
 
 <p align="center">
   <a href="mailto:kaue.alcan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
