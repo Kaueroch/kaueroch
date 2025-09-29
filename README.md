@@ -6,86 +6,67 @@
 
 <p align="center">
   🚀 Apaixonado por construir sistemas back-end robustos, APIs escaláveis e compartilhar conhecimento com a comunidade.<br>
-  Aqui você encontrará projetos, experimentos e ferramentas desenvolvidas com <b>Java</b>, <b>Spring</b>,React,MySQL/PostgreSQL, além de ferramentas como <b>Git</b> e <b>Docker</b>.
+  Aqui você encontrará projetos, experimentos e ferramentas desenvolvidas com <b>Java</b>, <b>Spring</b>, <b>React</b>, <b>MySQL/PostgreSQL</b>, além de ferramentas como <b>Git</b> e <b>Docker</b>.
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
+- 🔭 Foco em **Back End** com **Java + Spring (Boot, Data, Security, MVC)**
+- 🛠️ Experiência com **PostgreSQL, MySQL, Docker, Git** e **RESTful APIs**
+- ✍️ Autor de artigos técnicos sobre **Java, Spring e Engenharia de Back End**
+- 🌱 Estudando **Security**, **DDD** e **Microservices**
+- 🤝 Aberto a colaborações em **Open Source**
 
-- 🔭 Focado em **Back End Development** com **Java + Spring (Boot, Data, Security, MVC)**  
-- 🛠️ Experiência com **PostgreSQL, Docker, Git** e **RESTful API best practices**  
-- ✍️ Autor de artigos técnicos sobre **Java, Spring e Engenharia de Back End**  
-- 🌱 Em constante aprendizado em **Segurança de Aplicações** e **Arquitetura de Software** (DDD e Microservices)  
-- 🤝 Aberto a colaborações em **Open Source** e projetos comunitários
----
+<br/>
 
-## 🚀 Tech Stack  
-
+## 🚀 Tech Stack
 <p align="center">
-  <!-- Core -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="60" alt="Java"/>
-  
-  <!-- Frameworks -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="60" alt="Spring"/>
-  
-  <!-- Databases -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="60" alt="MySQL"/>
-  
-  <!-- DevOps -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="60" alt="Docker"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="60" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,postman,mysql,postgresql,idea,docker" height="60" />
 </p>
 
----
+<br/>
 
-## 🏆 Featured Projects  
+## 🏆 Featured Projects
+<div align="center" style="display: grid; gap: 16px;">
 
-<div align="center">
+  <div style="max-width: 520px;">
+    
+### 📌 <a href="https://github.com/Kaueroch/Gerenciador-de-Tarefas">Gerenciador de Tarefas</a>
+💡 Um sistema simples e eficiente para organizar tarefas do dia a dia e aumentar a produtividade.
 
-<table>
-<tr>
-<td width="45%" align="center">
-  
-### 📌 [Gerenciador de Tarefas](https://github.com/Kaueroch/Gerenciador-de-Tarefas)  
-💡 Um sistema simples e eficiente para organizar tarefas do dia a dia e aumentar a produtividade.  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=Gerenciador-de-Tarefas&theme=github_dark&hide_border=true&title_color=8f00ff" alt="Gerenciador de Tarefas"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=Gerenciador-de-Tarefas&theme=github_dark&hide_border=true" alt="Gerenciador de Tarefas"/>
+  </div>
 
-</td>
-<td width="45%" align="center">
+  <!--
+  <div style="max-width: 520px;">
+    
+### 📌 <a href="#">Outro Projeto Incrível</a>
+💡 Destaque outra API, estudo ou ferramenta open source.
 
-<!--
-### 📌 [Próximo Projeto](#)  
-💡 Aqui você pode destacar outro projeto (API, estudo, ferramenta, etc).  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=NomeDoRepo&theme=github_dark&hide_border=true&title_color=8f00ff" alt="Outro Projeto"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaueroch&repo=NomeDoRepo&theme=github_dark&hide_border=true" alt="Outro Projeto"/>
-
-</td>
--->
-</tr>
-</table>
+  </div>
+  -->
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaueroch&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaueroch&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaueroch&show_icons=true&theme=github_dark&hide_border=true&title_color=8f00ff&icon_color=8f00ff" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaueroch&theme=github_dark&hide_border=true&ring=8f00ff&fire=8f00ff&currStreakLabel=8f00ff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&hide=c%23&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Most Used Languages"/>
 </p>
 
----
+<br/>
 
-## 🌐 Let's Connect  
-
+## 🌐 Let's Connect
 <p align="center">
   <a href="mailto:kaue.alcan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/kaue-alcantara-a06946138/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
