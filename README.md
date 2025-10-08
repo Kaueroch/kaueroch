@@ -1,58 +1,69 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#8f00ff">Kauê Alcantara Rocha</span></h1>
-
+<h1 align="center" >Hi 👋! My name is Kauê Alcantara</h1>
 <p align="center">
-  <em><b>Back End Developer</b> • <b>Java & Spring Specialist</b> • <b>Tech Writer</b></em>
+  <em>Back End Developer • Tech Writer</em>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Passionate about building scalable back-end systems, designing RESTful APIs, and sharing knowledge with the dev community.  
-  Skilled in <b>Java</b>, <b>Spring</b>, <b>PostgreSQL/MySQL</b>, <b>Docker</b>, and <b>Git</b>.
+  I'm passionate about technology, teaching and creativity.  
+  Here you’ll find personal projects solving some problems and my experiments with Java, Docker and more :)
 </p>
 
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="47" alt="Spring" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="47" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="47" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="47" alt="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="47" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="47" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="47" alt="IntelliJ IDEA" />
+</div>
+
+---
+
+### About Me
+
+- 🔭 Backend-focused with Java + Spring (Boot, Data, Security, MVC)  
+- 🛠 Experience with PostgreSQL, MySQL, Docker, Git, and REST APIs  
+- ✍️ Author of technical articles on Java, Spring, and Software Engineering  
+- 🌱 Currently learning SOLID principles and Spring Security  
+- 🤝 Open to collaborating on Open Source projects in Java
+
+---
+
+### 🟩 Latest Commit Energy
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaueroch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
+</div>
+
 <p align="center">
-  <a href="mailto:kaue.alcan@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
+
+---
+
+<div align="center">
+  <a href="mailto:kaue.alcan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/kaue-alcantara-a06946138/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kauealcantara/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
   </a>
-  <a href="https://medium.com/@KaueAlcantara">
-    <img src="https://img.shields.io/badge/-Medium-8f00ff?style=flat-square&logo=medium&logoColor=white" />
+  <a href="https://medium.com/@KaueAlcantara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="medium logo" />
   </a>
-</p>
-
----
-
-### 🧠 About Me
-- 🔭 Focused on **Back End with Java + Spring (Boot, Data, Security, MVC)**  
-- 🛠 Experience with **PostgreSQL, MySQL, Docker, Git** and **REST APIs**  
-- ✍️ Author of technical articles about **Java, Spring and Engineering**  
-- 🌱 Currently learning **DDD, Microservices and Security**  
-- 🤝 Open to collaborate on **Open Source projects**  
-
----
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql,postgresql,docker,postman,idea" height="60" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaueroch&show_icons=true&theme=github_dark&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=ffffff" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaueroch&theme=github_dark&hide_border=true&ring=8f00ff&fire=8f00ff&currStreakLabel=8f00ff" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&hide=c%23&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" alt="Most Used Languages"/>
-</p>
-
----
-
-<p align="center">
-  <em>Keep coding. One commit at a time. ☕🌱</em>
-</p>
+</div>
