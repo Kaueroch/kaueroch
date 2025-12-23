@@ -20,7 +20,7 @@ I´ve built over 70 public repos, but privately.. its probably more than 170 abo
 <ul>
   <li>Java and Spring Boot</li>
   <li>PostgreSQL,MYSQL,Unit Testing,API RestFul</li>
-  <li>Postman,RabbitMQ,Docker,Swagger</li>
+  <li>Insomnia,RabbitMQ,Docker,Swagger</li>
 </ul>
 
 <hr>
