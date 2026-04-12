@@ -1,31 +1,12 @@
-### Hey everyone! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+Sou Desenvolvedor Back-End focado no ecossistema de  Java com Spring Boot.
 
-I´m Kauê Alcantara Rocha,a Software Developer from Brazil.
+Atualmente, estou focado na implementação e manutenção de sistemas que solucionam problemas críticos nas empresas que necessitavam de controle no gerenciamento de clientes, pedidos e faturamento. Minhas experiências foram focadas em áreas portuárias e em clinicas médicas implementando análise de dados, faturamento e tomada de decisões baseada na coleta de dados. 
 
-I love to help people and solve your problems, so know programming and falling in love in build things and help people.
+Tenho experiência com as seguintes tecnologias:
+Front-End: Angular 
+Back-end: Java com Spring Boot
+Banco de dados: Bancos relacionais (MySQL e PostgreSQL) e banco de dados não relacionais (MongoDB)
+Mensageria: RabbitMQ
+Infraestrutura e DevOps: Ecossistema Linux,Docker e Git.
 
-I love to think in some projects to solve some problem and all of my projects are based in this.
-
-so i think, building and ship it!
-<hr>
-
-### Working
-I have been worked in more projects to put in my pin. So, soon will have more projects to showing.
-
-I´ve built over 70 public repos, but privately.. its probably more than 170 about my personal projects, like some saas, do you know?
-
-<hr>
-
-### Tools & Tech
-<ul>
-  <li>Java and Spring Boot</li>
-  <li>PostgreSQL,MYSQL,Unit Testing,API RestFul</li>
-  <li>Insomnia,RabbitMQ,Docker,Swagger</li>
-</ul>
-
-<hr>
-
-### A Bit About Me
-✍️ I writing some articles about technology and stuff relationed about tech. If you wanna know more about this, [**click here**](https://medium.com/@KaueAlcantara) 
-🐕 i love animals in general but i love too much Dogs.
-**Hobbies:** building things to help in my daily routine,gym and movies about comedy romantics.
+Tenho experiência com a ferramenta de automação n8n, onde usei para fazer integrações de sistemas e automações para analisar dados, e apresentar esses dados a empresa gerando uma tomada decisões. 
