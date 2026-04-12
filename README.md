@@ -8,5 +8,6 @@ Tenho experiência com as seguintes tecnologias:
 - Front-End: Angular 
 - Back-end: Java com Spring Boot
 - Banco de dados: Bancos relacionais (MySQL e PostgreSQL) e banco de dados não relacionais (MongoDB)
+- Testes Unitários(Junit e Mockito)
 - Mensageria: RabbitMQ
 - Infraestrutura e DevOps: Ecossistema Linux, Docker e Git.
