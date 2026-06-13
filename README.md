@@ -1,13 +1,13 @@
-Sou Desenvolvedor Back-End focado no ecossistema de  Java com Spring Boot.
+### 💻 Desenvolvedor Back-End | Java, Spring Boot & DevOps
 
-Atualmente, estou focado na implementação e manutenção de sistemas que solucionam problemas críticos nas empresas que necessitavam de controle no gerenciamento de clientes, pedidos e faturamento. Minhas experiências foram focadas em áreas portuárias e em clinicas médicas implementando análise de dados, faturamento e tomada de decisões baseada na coleta de dados. 
+Com mais de 1 ano de experiência, sou Desenvolvedor Back-End especializado no ecossistema Java com Spring Boot. 
 
-Tenho experiência com a ferramenta de automação n8n, onde usei para fazer integrações de sistemas e automações para analisar dados, e apresentar esses dados á empresa gerando uma tomada decisões. 
+Atualmente, dedico-me à implementação e manutenção de sistemas que solucionam problemas críticos de empresas que necessitam de controle rigoroso no gerenciamento de clientes, pedidos e faturamento. Minhas vivências profissionais concentram-se nas áreas portuária e de clínicas médicas, estruturando recursos de análise de dados, fluxos de faturamento e coleta de métricas para apoiar a tomada de decisões.
 
-Tenho experiência com as seguintes tecnologias:
-- Front-End: Angular 
-- Back-end: Java com Spring Boot
-- Banco de dados: Bancos relacionais (MySQL e PostgreSQL) e banco de dados não relacionais (MongoDB)
-- Testes Unitários(Junit e Mockito)
-- Mensageria: RabbitMQ
-- Infraestrutura e DevOps: Ecossistema Linux, Docker e Git.
+**🛠️ Stack Técnica:**
+* **Front-End:** Angular.
+* **Back-End:** Java com Spring Boot.
+* **Bancos de Dados:** Relacionais (MySQL e PostgreSQL) e Não-relacionais (MongoDB).
+* **Testes Unitários:** JUnit e Mockito.
+* **Mensageria:** RabbitMQ.
+* **Infraestrutura e DevOps:** Ecossistema Linux, Docker e Git.
