@@ -1,13 +1,24 @@
-### 💻 Desenvolvedor Back-End | Java, Spring Boot & DevOps
+# Hello, I'm Kauê Alcantara 👋
 
-Com mais de 1 ano de experiência, sou Desenvolvedor Back-End especializado no ecossistema Java com Spring Boot. 
+*💻 Back-End Developer | Java, Spring Boot & DevOps*
 
-Atualmente, dedico-me à implementação e manutenção de sistemas que solucionam problemas críticos de empresas que necessitam de controle rigoroso no gerenciamento de clientes, pedidos e faturamento. Minhas vivências profissionais concentram-se nas áreas portuária e de clínicas médicas, estruturando recursos de análise de dados, fluxos de faturamento e coleta de métricas para apoiar a tomada de decisões.
+With over 1 year of experience, I am a Back-End Developer specializing in the Java and Spring Boot ecosystem. Currently, I am dedicated to implementing and maintaining systems that solve critical problems for companies requiring strict control over customer management, orders, and billing.
 
-**🛠️ Stack Técnica:**
-* **Front-End:** Angular.
-* **Back-End:** Java com Spring Boot.
-* **Bancos de Dados:** Relacionais (MySQL e PostgreSQL) e Não-relacionais (MongoDB).
-* **Testes Unitários:** JUnit e Mockito.
-* **Mensageria:** RabbitMQ.
-* **Infraestrutura e DevOps:** Ecossistema Linux, Docker e Git.
+[![Portfolio](https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kauezao.dev/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauealcantara/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.alcan@gmail.com)
+
+---
+
+### 🧠 About Me
+
+* 🏢 My professional experience is focused on the port and medical clinic sectors.
+* 📊 I work on structuring data analysis features, billing workflows, and metrics collection to support decision-making.
+* ⚙️ **Back-End:** Java with Spring Boot.
+* 🖥️ **Front-End:** Angular.
+* 🗄️ **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
+* 🧪 **Unit Testing:** JUnit and Mockito.
+* 📨 **Messaging:** RabbitMQ.
+* 🐧 **Infrastructure & DevOps:** Linux ecosystem, Docker, and Git.
+
+<p align="center"><i>Keep building. One commit at a time. 🟩</i></p>
