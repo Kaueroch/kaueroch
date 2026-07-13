@@ -1,6 +1,6 @@
 # Hello, I'm Kauê Alcantara 👋
 
-*💻 Back-End Developer
+**💻 Software Engineer** 
 
 With over 1 year of experience, I am a Back-End Developer specializing in the Java and Spring Boot ecosystem. Currently, I am dedicated to implementing and maintaining systems that solve critical problems for companies requiring strict control over customer management, orders, and billing.
 
