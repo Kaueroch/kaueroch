@@ -11,14 +11,11 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 ---
 
 ### 🧠 About Me
-
-* 🏢 My professional experience is focused on the port and medical clinic sectors.
-* 📊 I work on structuring data analysis features, billing workflows, and metrics collection to support decision-making.
-* ⚙️ **Back-End:** Java with Spring Boot.
-* 🖥️ **Front-End:** Angular.
-* 🗄️ **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
-* 🧪 **Unit Testing:** JUnit and Mockito.
-* 📨 **Messaging:** RabbitMQ.
-* 🐧 **Infrastructure & DevOps:** Linux ecosystem, Docker, and Git.
+* **Back-End:** Java with Spring Boot.
+* **Front-End:** Angular.
+* **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
+* **Unit Testing:** JUnit and Mockito.
+* **Messaging:** RabbitMQ.
+* **Infrastructure & DevOps:** Linux ecosystem, Docker, and Git.
 
 <p align="center"><i>Keep building. One commit at a time. 🟩</i></p>
