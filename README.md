@@ -12,7 +12,6 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 
 ### 🧠 About Me
 * **Back-End:** Java with Spring Boot.
-* **Front-End:** Angular.
 * **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
 * **Unit Testing:** JUnit and Mockito.
 * **Messaging:** RabbitMQ.
