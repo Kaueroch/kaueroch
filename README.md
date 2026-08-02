@@ -16,11 +16,6 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 * **Unit Testing:** JUnit and Mockito.
 * **Messaging:** RabbitMQ.
 * **Infrastructure & DevOps:** Linux ecosystem, Docker, and Git.
-
-### 📊 Tech Stack Metrics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&theme=dracula)
-
 <br>
 
 <p align="center"><i>Keep building. One commit at a time. 🟩</i></p>
