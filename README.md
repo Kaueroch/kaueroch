@@ -11,10 +11,16 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 ---
 
 ### 🧠 About Me
-* **Back-End:** Java with Spring Boot.
+* **Back-End:** Java (Spring Boot) and Go (Golang).
 * **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
 * **Unit Testing:** JUnit and Mockito.
 * **Messaging:** RabbitMQ.
 * **Infrastructure & DevOps:** Linux ecosystem, Docker, and Git.
+
+### 📊 Tech Stack Metrics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueroch&layout=compact&theme=dracula)
+
+<br>
 
 <p align="center"><i>Keep building. One commit at a time. 🟩</i></p>
