@@ -18,4 +18,4 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 * **Infrastructure & DevOps:** Linux ecosystem, Docker, and Git.
 <br>
 
-<p align="center"><i>Keep building. One commit at a time. 🟩</i></p>
+<p align="center"><i>Keep building. One commit at a time 🟩</i></p>
