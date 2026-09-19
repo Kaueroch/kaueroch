@@ -15,7 +15,7 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 * **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
 * **Unit Testing:** JUnit and Mockito.
 * **Messaging:** RabbitMQ.
-* **Infrastructure & DevOps:** Linux ecosystem, Docker, and Git.
+* **Infrastructure & DevOps:** Linux, Docker, and Git.
 <br>
 
 <p align="center"><i>Keep building. One commit at a time 🟩</i></p>
