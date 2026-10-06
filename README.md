@@ -14,7 +14,7 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 * **Back-End:** Java 17 (Spring Boot), Java EE, Java SE.
 * **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
 * **Unit Testing:** JUnit and Mockito.
-* **Messaging:** RabbitMQ.
+* **Messaging:** RabbitMQ
 * **Infrastructure & DevOps:** Linux, Docker, and Git.
 <br>
 
