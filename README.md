@@ -1,15 +1,14 @@
-# Hello, I'm Kauê Alcantara 👋
+# Hi, I'm Kauê Alcantara 👋
+💻 Back-End Software Engineer | Java & Spring Boot
 
-**💻 Software Engineer** 
+I build and maintain back-end systems for companies that need strict control over customers, orders and billing. 1+ year of professional experience, currently open to new opportunities.
 
-With over 1 year of experience, I am a Back-End Developer specializing in the Java and Spring Boot ecosystem. Currently, I am dedicated to implementing and maintaining systems that solve critical problems for companies requiring strict control over customer management, orders, and billing.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kauezao.dev/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauealcantara/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.alcan@gmail.com)
 
 ---
-
 ### 🧠 About Me
 * **Back-End:** Java 17 (Spring Boot), Java EE, Java SE.
 * **Databases:** Relational (MySQL and PostgreSQL) and Non-relational (MongoDB).
@@ -17,5 +16,7 @@ With over 1 year of experience, I am a Back-End Developer specializing in the Ja
 * **Messaging:** RabbitMQ.
 * **Infrastructure & DevOps:** Linux, Docker, and Git.
 <br>
+## 📫 Let's talk
+Open to Java back-end roles. Reach me on LinkedIn or by e-mail.
 
 <p align="center"><i>Keep building. One commit at a time 🟩</i></p>
