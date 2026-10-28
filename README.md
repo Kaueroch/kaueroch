@@ -16,7 +16,6 @@ I build and maintain back-end systems for companies that need strict control ove
 * **Messaging:** RabbitMQ.
 * **Infrastructure & DevOps:** Linux, Docker, and Git.
 <br>
-## 📫 Let's talk
-Open to Java back-end roles. Reach me on LinkedIn or by e-mail.
+
 
 <p align="center"><i>Keep building. One commit at a time 🟩</i></p>
