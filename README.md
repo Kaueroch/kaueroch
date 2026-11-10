@@ -1,4 +1,4 @@
-# Hi, I'm Kauê Alcantara 👋
+# Hi, I'm Kauê Alcantara 
 💻 Back-End Software Engineer | Java & Spring Boot
 
 I build and maintain back-end systems for companies that need strict control over customers, orders and billing. 1+ year of professional experience, currently open to new opportunities.
